@@ -1,0 +1,6 @@
+file_name,total_tokens,total_lines
+src/main.c,150,10
+src/parser.c,250,12
+src/lexer.c,120,8
+src/utils.c,500,10
+src/evaluator.c,30,5
